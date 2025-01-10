@@ -1,0 +1,9 @@
+body{
+    background: #000;
+    overflow: hidden; /* Hide scrollbars */
+
+}
+
+mesh{
+    height: 60vh;
+}
